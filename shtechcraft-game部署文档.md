@@ -1,5 +1,5 @@
 # 架构
-![[deepseek_mermaid_20250811_7ecbc4.png]]
+![deepseek_mermaid_20250811_7ecbc4.png]
 # 镜像制作
 ## waterfall
 `Dockerfile`:
